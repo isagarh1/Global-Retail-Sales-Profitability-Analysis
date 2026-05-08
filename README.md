@@ -29,6 +29,13 @@ Analyzed 3,000+ retail transactions across 6 countries to uncover insights relat
 - Evaluated regional and product-level profitability
 - Analyzed customer demographics and payment behavior
 
+## Recommendations
+Key recommendations included reducing discount dependency,
+optimizing high-margin product strategies, targeting profitable
+customer segments, improving regional profitability tracking,
+and leveraging top sales rep performance patterns to improve
+overall operational efficiency. 
+
 ## Dashboard Pages
 Executive Overview [<img width="1322" height="760" alt="Executive overview" src="https://github.com/user-attachments/assets/62dea97b-8b5f-43ef-b1e7-0e048c665be0" />]
 Customer Analysis [<img width="1277" height="712" alt="Customer Behavior" src="https://github.com/user-attachments/assets/4a621cca-d599-4b89-bcec-282edf638b25" />]
